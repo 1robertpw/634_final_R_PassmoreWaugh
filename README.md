@@ -1,1 +1,1 @@
-# transitons and everything should work! i hope i did github desktop properly!
+# css/javascript and everything should work! I hope I did GitHub Desktop properly!
